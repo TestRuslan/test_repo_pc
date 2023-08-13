@@ -10,5 +10,6 @@ print("Hello, GIT")
 
 def minus_nums(a, b):
     return a - b
+# ПРИВЕТ КАК ДЕЛА
 if __name__ == "__main__":
     print(minus_nums(7, 2))
