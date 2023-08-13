@@ -5,3 +5,4 @@ print(sum_nums(7, 8))
 
 
 print("Hello, Ruslan")
+print("Hello, GIT")
